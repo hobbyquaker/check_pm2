@@ -9,8 +9,6 @@ Nagios/Icinga Plugin to check [PM2](https://github.com/Unitech/pm2) Processes
 
 ## Installation
 
-Needs Node.js/npm
-
 ```npm install check_pm2 -g```
 
 
